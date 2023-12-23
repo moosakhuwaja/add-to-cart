@@ -85,6 +85,3 @@ Your contributions are welcome! Follow these steps to contribute:
 
 If you encounter any issues or find a bug, please [open an issue](https://github.com/moosakhuwaja/add-to-cart/issues) on GitHub. Your feedback is valuable.
 
-```
-
-```
